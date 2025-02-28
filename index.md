@@ -10,8 +10,8 @@
 * 대한민국 국가과학유공자 UC버클리 김성호 교수님 [2023.05.30. 증서수여식](https://youtube.com/clip/UgkxOnFmgnLcM19qjs3gkMSSlAlKpa903mno)
   - 'RNA 연구' 석학 김성호 "호기심 좇을 수 있게 국가가 도와야" [연합뉴스 인터뷰](https://www.yna.co.kr/view/AKR20230604025300017?input=1195m)
   - [과기 유공자 김성호 교수, 노벨상 불발된 사연](https://www.dongascience.com/news.php?idx=60039)
-  - [현대 생명과학의 탐험가, 김성호 : 호기심의 바다를 항해한 과학 인생 60년](https://library.korea.ac.kr/detail/?cid=CAT000046193988&ctype=m)
-* [페임랩코리아](https://www.facebook.com/famelab.korea/?locale=ko_KR)
+  - [현대 생명과학의 탐험가, 김성호 : 호기심의 바다를 항해한 과학 인생 60년](https://library.korea.ac.kr/detail/?cid=CAT000046193988&ctype=m) <img src="https://image.aladin.co.kr/product/35718/43/letslook/K842036235_f.jpg" width=60 height=90>
+* 과학커뮤니케이터가 되려면? [페임랩코리아](https://www.facebook.com/famelab.korea/?locale=ko_KR)
 ----
 
 ### __Chapter 1__
