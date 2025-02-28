@@ -1,6 +1,6 @@
 ## LIST203 Microbiology
-* 2024 LIST204 class attendance  
-![image]
+* 2025 LIST203 class attendance  
+![image](https://github.com/igchoi/microbio-class/blob/gh-pages/2025-LIST203-QR.png)
 
 ### Links for students (readings)
 * [Small things considered (blog)](https://schaechter.asmblog.org/)
