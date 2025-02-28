@@ -1,4 +1,6 @@
 ## LIST203 Microbiology
+* 2024 LIST204 class attendance  
+![image]
 
 ### Links for students (readings)
 * [Small things considered (blog)](https://schaechter.asmblog.org/)
