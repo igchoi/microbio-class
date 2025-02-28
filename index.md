@@ -1,5 +1,7 @@
 ## LIST203 Microbiology
-* 2025 LIST203 class attendance  
+
+* 2025 LIST203 Quiz
+ 
 ![image](https://github.com/igchoi/microbio-class/blob/gh-pages/2025-LIST203-QR.png)
 
 ### Links for students (readings)
