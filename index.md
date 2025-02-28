@@ -2,7 +2,7 @@
 
 * 2025 LIST203 Quiz
  
-![image](https://github.com/igchoi/microbio-class/blob/gh-pages/2025-LIST203-QR.png?raw=true)
+![image](https://raw.githubusercontent.com/igchoi/microbio-class/refs/heads/gh-pages/2025-LIST203-QR.png)
 
 ### Links for students (readings)
 * [Small things considered (blog)](https://schaechter.asmblog.org/)
