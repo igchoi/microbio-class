@@ -11,6 +11,7 @@
 * Who was 'Carl Woese'?
   - [NYTimes](https://www.nytimes.com/2013/01/01/science/carl-woese-dies-discovered-lifes-third-domain.html), [Nature: Discoverer of life's third domain](https://www.nature.com/articles/493610a)
 * Bacterial [Nomenclature 101](https://help.ezbiocloud.net/bacterial-nomenclature-101-and-how-to-describe-new-species/)
+  - __좋거나, 나쁘거나, 이상한 학명의 세계__ [과학동아 Mar 2025](https://www.dongascience.com/news.php?idx=70422)  
 * Origins of Life
   - Early life hunt inspired by [oldest fossils debate](https://www.ox.ac.uk/news/2015-04-20-early-life-hunt-inspired-oldest-fossils-debate)
   - Scientists may have found [the earliest evidence of life on Earth](https://www.science.org/content/article/scientists-may-have-found-earliest-evidence-life-earth)
@@ -18,7 +19,7 @@
 * [Exceptions](https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/10%3A_Epidemiology/10.01%3A_Principles_of_Epidemiology/10.1E%3A_Exceptions_to_Kochs_Postulates) to Koch's postulates (__코흐 가설의 예외__)
 * ASM Podcast [Meet the Microbiologist](https://asm.org/Podcasts/MTM)
   - [The Self-Experimentation of Barry Marshall](https://asm.org/Podcasts/MTM/Episodes/The-Self-Experimentation-of-Barry-Marshall-MTM-144)  
-* __Book__: Microbe Hunters 미생물사냥꾼 이야기 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045214417&ctype=m) <img src="https://image.aladin.co.kr/product/54/23/cover/8989418437_1.jpg" width=60 height=90>
+* __Book__: Microbe Hunters 미생물사냥꾼 이야기 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045214417&ctype=m) <!--img src="https://image.aladin.co.kr/product/54/23/cover/8989418437_1.jpg" width=60 height=90-->
 
 #### [__Chapter 19__](https://igchoi.github.io/microbio-class/LIST204.html#chapter-19-archaea)
 * Asgard/Loki? (Avengers??) - Archaea(고세균) is missing link in evolution of eukaryote?
