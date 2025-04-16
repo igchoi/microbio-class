@@ -67,19 +67,20 @@
   - [Quazisymmetry in iscosahedron](https://pdb101.rcsb.org/motm/200)
   - [Dengue virus origami](https://pdb101.rcsb.org/learn/paper-models/dengue-virus)  
 * Prions 
-  - __Book__: Deadly Feast 죽음의 향연 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045305833&ctype=m) - How Prions were discovered <img src="https://image.aladin.co.kr/product/84/94/letslook/8983711876_f.jpg" width=60 height=90>
+  - __Book__: Deadly Feast 죽음의 향연 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045305833&ctype=m) - How Prions were discovered
+    <!--img src="https://image.aladin.co.kr/product/84/94/letslook/8983711876_f.jpg" width=60 height=90-->
   
 ### __Chapter 7__
 * ParABS (chromosome partition) - see this [youtube video](https://youtu.be/0S0CWAmmFzY?t=280)
 * Growth kinetics - mathematics of bacterial growth [exponential vs. logistic](https://www.khanacademy.org/science/ap-biology/ecology-ap/population-ecology-ap/a/exponential-logistic-growth)
-* __BOOK__: 내 속엔 미생물이 너무도 많아 : 기상천외한 공생의 세계로 떠나는 그랜드 투어 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045915025&ctype=m) <img src="https://image.aladin.co.kr/product/11380/16/letslook/K712531407_f.jpg" width=60 height=90>
+* __BOOK__: 내 속엔 미생물이 너무도 많아 : 기상천외한 공생의 세계로 떠나는 그랜드 투어 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045915025&ctype=m) <!--img src="https://image.aladin.co.kr/product/11380/16/letslook/K712531407_f.jpg" width=60 height=90-->
  
 ### __Chapter 8__
 * _Bdellovibrio_ attacking _E. coli_: see this video at [youtube](https://youtu.be/-uZjo0ohjFw)
 
 ### __Chapter 9__
 * __BOOK__: 전염병의 문화사 - how diseases shaped human culture? [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000000713979&ctype=m)
-  <img src="https://image.aladin.co.kr/product/28/63/cover/8983710780_2.jpg" width=60 height=90>
+  <!--img src="https://image.aladin.co.kr/product/28/63/cover/8983710780_2.jpg" width=60 height=90-->
 * Dark side of new discovery: the disputed discovery of Sterptomycin - [Book Reivew - Waksman vs. Schatz](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673612612021.pdf)
 
 ### __Chapter 10__
