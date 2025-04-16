@@ -61,9 +61,11 @@
   - [How Bacteria-Infecting Viruses Could Save Lives](https://biobeat.nigms.nih.gov/2022/04/how-bacteria-infecting-viruses-could-save-lives/)
 * [Pandora virus](https://www.newscientist.com/article/dn23901-my-so-called-viral-life-is-discovery-new-life-form/)
 * SARS-Cov-2
-  - [NCBI SARS-CoV-2 Resources](https://www.ncbi.nlm.nih.gov/sars-cov-2/)
   - [The total number and mass of SARS-CoV-2 virions](https://www.pnas.org/doi/full/10.1073/pnas.2024815118)
-* Virus [icosahedron origami](https://rockedu.rockefeller.edu/component/virus-origami/) 
+  - [SARS-Cov2 at PDB](https://rcsb.org/covid19)
+* Virus [icosahedron origami](https://rockedu.rockefeller.edu/component/virus-origami/)
+  - [Quazisymmetry in iscosahedron](https://pdb101.rcsb.org/motm/200)
+  - [Dengue virus origami](https://pdb101.rcsb.org/learn/paper-models/dengue-virus)  
 * Prions 
   - __Book__: Deadly Feast 죽음의 향연 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045305833&ctype=m) - How Prions were discovered <img src="https://image.aladin.co.kr/product/84/94/letslook/8983711876_f.jpg" width=60 height=90>
   
