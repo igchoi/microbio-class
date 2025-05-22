@@ -80,6 +80,7 @@
 
 ### __Chapter 9__
 * [To Youyou: Woman who changed science (Nobel prize winner)](https://www.nobelprize.org/womenwhochangedscience/stories/tu-youyou)
+* _Candida auris_: [한국서 첫 발견 신종 슈퍼곰팡이, 국내감염 확산](https://m.dongascience.com/news.php?idx=70540)
 * __BOOK__: 전염병의 문화사 - how diseases shaped human culture? [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000000713979&ctype=m)
   <!--img src="https://image.aladin.co.kr/product/28/63/cover/8983710780_2.jpg" width=60 height=90-->
 * Dark side of new discovery: the disputed discovery of Sterptomycin - [Book Reivew - Waksman vs. Schatz](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673612612021.pdf)
