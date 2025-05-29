@@ -1,10 +1,10 @@
 ## LIST203 Microbiology
 
-* 2025 LIST203 Quiz
- 
+<!--
+* 2025 LIST203 Quiz 
 ![image](https://raw.githubusercontent.com/igchoi/microbio-class/refs/heads/gh-pages/2025-LIST203-QR.png)
-
-----
+---
+-->
 
 ### __Chapter 1__
 * Domain (Biology) [wiki](https://en.wikipedia.org/wiki/Domain_(biology))
