@@ -15,13 +15,15 @@
 * [Nature TECHNOLOGY FEATURE 08 June 2020](https://www.nature.com/articles/d41586-020-01684-z): The search for microbial dark matter
 * [Nature Comment Published: 02 August 2024](https://www.nature.com/articles/s41564-024-01768-w): __The ever-changing tree of life__
   - [GTDB](https://gtdb.ecogenomic.org/): Genome Taxonomy Database
-#### Nomenclature
+    
+### _Nomenclature_
 * [Bacterial Nomenclature 101](https://help.ezbiocloud.net/bacterial-nomenclature-101-and-how-to-describe-new-species/) at Chunlab (written by Dr. Jongsik Chun)
 * __NEW trend__ [SeqCode: a nomenclatural code for prokaryotes described from sequence data](https://www.nature.com/articles/s41564-022-01214-9)
 
+
 ### _Chapter 19 Archaea_
 
-* Asgard group of __Lokiarcheota__ [Nature EDITORIAL 15 January 2020](https://www.nature.com/articles/d41586-020-00087-4): The life of archaea
+* Asgard group of __Lokiarchaeota__ [Nature EDITORIAL 15 January 2020](https://www.nature.com/articles/d41586-020-00087-4): The life of archaea
 * 동아사이언스 (강석기의 과학카페): [진핵생물 진화의 열쇠 쥔 고세균, 배양에 성공하다](https://www.dongascience.com/news.php?idx=30788), [고세균 로키, 진핵세포 진화의 잃어버린 고리인가](https://www.dongascience.com/news.php?idx=6896)
 * Reading paper - [A new symbiotic nanoarchaeote (Candidatus Nanoclepta minutus) and its host (Zestosphaera tikiterensis gen. nov., sp. nov.) from a New Zealand hot spring](https://pubmed.ncbi.nlm.nih.gov/30195930/)
 
