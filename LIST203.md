@@ -5,6 +5,8 @@
 ![image](https://raw.githubusercontent.com/igchoi/microbio-class/refs/heads/gh-pages/2025-LIST203-QR.png)
 ---
 -->
+### Who
+* Fanny Angelina Hesse and the [Discovery of Agar](https://www.youtube.com/watch?v=qyTjqIKTQLo)
 
 ### __Chapter 1__
 * Domain (Biology) [wiki](https://en.wikipedia.org/wiki/Domain_(biology))
