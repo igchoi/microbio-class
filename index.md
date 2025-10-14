@@ -42,6 +42,7 @@
 * [SAR11 and SAR202](https://bios.asu.edu/currents/the-most-abundant-organisms-youve-never-heard-of/) - The Most Abundant Organisms You’ve Never Heard Of
   - Culture _unculturable_ [심해의 청소부 ‘사르202’ 세균, 실험실 배양 성공](https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=9861670)
 * [_Caulobacter crescentus_](https://pubmed.ncbi.nlm.nih.gov/36286485/) - Holdfast: What Glues the Glue to the Cell Surface?
+* [_Vibrio_ lux system](./images/vibrio_luxABCDE.jpg)
   
 ### _Chapter 22_ Gram-positive bacteria (Actinobacteria & Firmicutes)
 * _Actinoplanes_ producing anti-diabetic drug: [Acarbose](https://en.wikipedia.org/wiki/Acarbose)
