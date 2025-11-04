@@ -61,7 +61,8 @@
 * 세계 개구리 멸종으로 내몬 항아리곰팡이, 한국이 발원지 - [Chytrids](https://www.dongascience.com/news.php?idx=22408)
 
 ### _Chapter 25_ Viruses
-
+* Giant Viruses Blur The Line Between Alive and Not: [Mimivirus](https://www.youtube.com/watch?v=EJvxOO2WVzg)
+* Sputunik [virophage](https://en.wikipedia.org/wiki/Sputnik_virophage)
 
 ### _Chapter 26_ Exploring Microbes in Ecosystems
 * [생물자원센터 KCTC 미생물 동정서비스](https://kctc.kribb.re.kr/jzService/identy)
