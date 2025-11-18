@@ -76,6 +76,9 @@
 * [서울 첫 '말라리아 경보…원인은 기후변화·북한 영향? (2024.09.07)](https://m.dongascience.com/news.php?idx=67332)
 * [기후 변화로 인한 미래 질병 대비해야···"뎅기열 토착화 가능성↑" (2024.03.18)](https://www.ajunews.com/view/20240318112212255)
 * [Cable bacteria - live wire](https://www.science.org/content/article/metal-scaffolds-turn-bacteria-live-wires)
+* Leibig's law of the minimum
+  <img width="240" height="239" alt="image" src="https://github.com/user-attachments/assets/5aa98ecd-f97c-4baf-89d9-beea54881587" />
+
 
 ### _Chapter 29_ Aquatic ecosystem
 * Winogradsky column [microbial ecology in a bottle @HHMI](https://www.biointeractive.org/classroom-resources/winogradsky-column-microbial-ecology-bottle)
