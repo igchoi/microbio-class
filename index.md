@@ -84,6 +84,8 @@
 * Winogradsky column [microbial ecology in a bottle @HHMI](https://www.biointeractive.org/classroom-resources/winogradsky-column-microbial-ecology-bottle)
   - [biointeractive](https://media.hhmi.org/biointeractive/click/winogradsky/)
 * Exploratorium live painting - [Bacteriopolis](https://www.exploratorium.edu/exhibits/bacteriopolis)
+* [Marine snow](https://youtu.be/Lt8rDz0vx2o?si=2ch2FNTQ9IGeS_if)
+
 
 ### _Chapter 30_ Terrestrial ecosystem
 * [천마](https://ko.wikipedia.org/wiki/%EC%B2%9C%EB%A7%88_(%EC%8B%9D%EB%AC%BC))
