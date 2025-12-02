@@ -85,6 +85,13 @@
   - [biointeractive](https://media.hhmi.org/biointeractive/click/winogradsky/)
 * Exploratorium live painting - [Bacteriopolis](https://www.exploratorium.edu/exhibits/bacteriopolis)
 * [Marine snow](https://youtu.be/Lt8rDz0vx2o?si=2ch2FNTQ9IGeS_if)
+* Aquatic insect gut microbiome
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5b36c453-56e7-4073-8657-877925804583" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bd32529a-ad38-495e-bf35-94456cb70d36" />
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/60e67196-063d-4ff0-8ebf-4565e9f51417" />
+  <img width="300" height="320" alt="image" src="https://github.com/user-attachments/assets/2fec0c72-b689-4e32-beb3-fa59a3bb8f0d" />
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4e455adb-8bd0-47cc-af67-4e158745b9ae" />
+
 
 
 ### _Chapter 30_ Terrestrial ecosystem
