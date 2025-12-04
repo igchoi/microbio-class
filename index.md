@@ -96,6 +96,7 @@
 * [Can A Microbe Conservation Movement Take Off?](https://www.sciencefriday.com/segments/microbe-conservation-movement)
 
 ### _Chapter 30_ Terrestrial ecosystem
+* [PivotBio](https://www.pivotbio.com/our-technology)
 * [천마](https://ko.wikipedia.org/wiki/%EC%B2%9C%EB%A7%88_(%EC%8B%9D%EB%AC%BC))
   - [The Gastrodia elata genome provides insights into plant adaptation to heterotrophy](https://www.nature.com/articles/s41467-018-03423-5)
 * [Worm-trapping fungi](https://www.youtube.com/watch?v=V6g3OjkhClE)
