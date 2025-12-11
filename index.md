@@ -106,6 +106,7 @@
 * 호주, 대변으로 정제한 '장내미생물 의약품' 세계 첫 승인 [동아사이언스](https://www.dongascience.com/news.php?idx=57067)
 * Number of human and bacterial cells in the body [PLoS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533)
 * [Brain microbiome?](https://www.newscientist.com/article/mg26335104-500-the-brain-has-its-own-microbiome-heres-what-it-means-for-your-health/)
+* [Research linking gut microbes to autism is deeply flawed, critics say](https://www.science.org/content/article/research-linking-gut-microbes-autism-deeply-flawed-critics-say) [Nov. 13 2025]
 
 
 
