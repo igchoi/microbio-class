@@ -6,7 +6,7 @@
 ---
 -->
 ### Who was..
-* __Fanny Angelina Hesse__? and the [Discovery of Agar](https://www.youtube.com/watch?v=qyTjqIKTQLo)
+* __Fanny Angelina Hesse__? [Fanny](https://fanny-hesse-graphic-novel.site/#who) and the [Discovery of Agar](https://www.youtube.com/watch?v=qyTjqIKTQLo)
 * __Carl Woese__? - [NYTimes](https://www.nytimes.com/2013/01/01/science/carl-woese-dies-discovered-lifes-third-domain.html), [Nature: Discoverer of life's third domain](https://www.nature.com/articles/493610a)
 
 ### __Chapter 1__
