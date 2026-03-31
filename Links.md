@@ -1,6 +1,7 @@
 ### Links for students (readings)
 * [Small things considered (blog)](https://schaechter.asmblog.org/)
 * [ASM Podcasts](https://www.asm.org/podcasts)
+  - ASM Podcast [Meet the Microbiologist](https://asm.org/Podcasts/MTM)
   - American Society of Microbiology 미국 미생물학회 [ASM](https://www.asm.org)
 * 영국 미생물학회 소식지 [Microbiology Today](https://microbiologysociety.org/publication/current-issue/)
 * 미생물생명공학회 [웹진](http://www.e-bioindustry.or.kr/index.html)
