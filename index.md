@@ -5,21 +5,20 @@
 ![image](https://raw.githubusercontent.com/igchoi/microbio-class/refs/heads/gh-pages/2025-LIST203-QR.png)
 ---
 -->
-### Who was..
+### Who was.. (미생물학 인물열전)
 * __Fanny Angelina Hesse__? [Fanny](https://fanny-hesse-graphic-novel.site/#who) and the [Discovery of Agar](https://www.youtube.com/watch?v=qyTjqIKTQLo)
 * __Carl Woese__? - [NYTimes](https://www.nytimes.com/2013/01/01/science/carl-woese-dies-discovered-lifes-third-domain.html), [Nature: Discoverer of life's third domain](https://www.nature.com/articles/493610a)
 
 ### __Chapter 1__
-* Domain (Biology) [wiki](https://en.wikipedia.org/wiki/Domain_(biology))
+* Domain Concept (Biology) [wiki](https://en.wikipedia.org/wiki/Domain_(biology)) - 분류체계 최상위
 * Bacterial [Nomenclature 101](https://help.ezbiocloud.net/bacterial-nomenclature-101-and-how-to-describe-new-species/)
   - __좋거나, 나쁘거나, 이상한 학명의 세계__ [과학동아 Mar 2025](https://www.dongascience.com/news.php?idx=70422)  
-* Origins of Life
+* Origins of Life (생명의 기원)
   - Early life hunt inspired by [oldest fossils debate](https://www.ox.ac.uk/news/2015-04-20-early-life-hunt-inspired-oldest-fossils-debate)
   - Scientists may have found [the earliest evidence of life on Earth](https://www.science.org/content/article/scientists-may-have-found-earliest-evidence-life-earth)
   - A window into prebiotic worlds? [Earth’s earliest hydrothermal systems](https://www.science.org/doi/10.1126/science.adg2630) (Feb 3, 2023)
-* [Koch's Postulates Exceptions](https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/10%3A_Epidemiology/10.01%3A_Principles_of_Epidemiology/10.1E%3A_Exceptions_to_Kochs_Postulates) to Koch's postulates (__코흐 가설의 예외__)
-* ASM Podcast [Meet the Microbiologist](https://asm.org/Podcasts/MTM)
-  - [The Self-Experimentation of Barry Marshall](https://asm.org/Podcasts/MTM/Episodes/The-Self-Experimentation-of-Barry-Marshall-MTM-144)  
+* 코흐가설의 예외 [Koch's Postulates Exceptions](https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/10%3A_Epidemiology/10.01%3A_Principles_of_Epidemiology/10.1E%3A_Exceptions_to_Kochs_Postulates) to Koch's postulates (__코흐 가설의 예외__)
+* 배리마샬 헬리코박터 실험 [The Self-Experimentation of Barry Marshall](https://asm.org/Podcasts/MTM/Episodes/The-Self-Experimentation-of-Barry-Marshall-MTM-144)  
 * __Book__: Microbe Hunters 미생물사냥꾼 이야기 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045214417&ctype=m) <!--img src="https://image.aladin.co.kr/product/54/23/cover/8989418437_1.jpg" width=60 height=90-->
 
 #### [__Chapter 19__](https://igchoi.github.io/microbio-class/LIST204.html#chapter-19-archaea)
